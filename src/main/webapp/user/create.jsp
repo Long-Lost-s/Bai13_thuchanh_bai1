@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Create User</title>
+  <link rel="stylesheet" href="../style.css">
 </head>
 <body>
 <center>

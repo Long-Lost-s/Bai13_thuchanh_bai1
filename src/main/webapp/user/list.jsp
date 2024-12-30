@@ -14,6 +14,7 @@
     <button type="submit">Search</button>
   </form>
   <a href="users?action=sort">Sort by Name</a>
+  <a href="users?action=create">Add new user</a>
   <table border="1" cellpadding="5">
     <tr>
       <th>ID</th>
